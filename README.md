@@ -29,5 +29,3 @@ I’m **Rahat H. Himel**, a Computer Science undergraduate at Green University o
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
