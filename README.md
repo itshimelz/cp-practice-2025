@@ -10,13 +10,17 @@ The primary language used in this repo is **C++**, chosen for its performance an
 
 ## My Profiles
 
-Track my progress on these platforms:
-</br>
-</br>
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-itshimelz-blue?style=flat)](https://codeforces.com/profile/itshimelz) 
+Track my progress on these platforms:  
+<br>
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-itshimelz-blue?style=flat)](https://codeforces.com/profile/itshimelz)  
 [![LeetCode Stats](https://img.shields.io/badge/LeetCode-itshimelz-orange?style=flat)](https://leetcode.com/itshimelz)
 
 *Note*: Dynamic stats badges for Codeforces and LeetCode aren’t natively supported by Shields.io directly with real-time data, but the links above point to my profiles. For live stats, visit the profiles directly.
+
+## Related Repositories
+
+Check out my other competitive programming work:  
+- [Codeforces Solutions](https://github.com/itshimelz/codeforces) - A collection of my Codeforces problem solutions.
 
 ## Contributing
 
