@@ -6,7 +6,6 @@ problem: https://codeforces.com/problemset/problem/263/A
 */
 
 #include <bits/stdc++.h>
-
 #include <iostream>
 
 using namespace std;
@@ -30,7 +29,7 @@ int main() {
                 result = abs(i - 2) + abs(j - 2);
                 break;
             }
-            
+
         }
     }
     cout << result << endl;
