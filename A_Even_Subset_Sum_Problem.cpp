@@ -1,7 +1,10 @@
 /*
 --- ---
+time: 15:40:45+06:00
+date: Thu 06, Mar 2025
 author: Rahat H. Himel
-problem: https://codeforces.com/contest/2065/problem/A
+problem: https://codeforces.com/problemset/problem/1323/A
+
 --- ---
 */
 
@@ -11,14 +14,8 @@ problem: https://codeforces.com/contest/2065/problem/A
 using namespace std;
 
 void solution() {
-    string str;
-    getline(cin, str);
-    int l = str.length();
-
-    if (l >= 2) {
-        str.replace(l - 2, 2, "i");
-    }
-    cout << str;
+    // Implement your solution here
+    
 }
 
 int main() {
@@ -27,10 +24,9 @@ int main() {
 
     int t;
     cin >> t;
-    while (t >= 0) {
+    while (t--) {
         solution();
         cout << endl;
-        t--;
     }
 
     return 0;
